@@ -1,13 +1,13 @@
-import express from 'express';
-import cors from 'cors';
+import express from "express";
+import cors from "cors";
 import "dotenv/config";
-import storiesRouter from './routes/stories-routes.js';
+import storiesRouter from "./routes/stories-routes.js";
 const app = express();
-let {CROSS_ORIGIN} = process.env;
+let { CROSS_ORIGIN } = process.env;
 const PORT = process.env.PORT || 8080;
-app.use(cors({origin:CROSS_ORIGIN}));
+app.use(cors({ origin: CROSS_ORIGIN }));
 app.use(express.json());
 app.use("/", storiesRouter);
 app.listen(PORT, () => {
-    console.log(`App listening on port ${PORT}!`);
-})
+  console.log(`App listening on port ${PORT}!`);
+});
