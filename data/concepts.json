@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "concept": "Heavens",
+    "tooltip": "Homes of the divine.",
+    "text": "Homes of the divine, created through the domain over which they hold authority."
+  },
+  {
+    "id": "2",
+    "concept": "Heavenly Balance",
+    "tooltip": "Two or more deities combining their influences to support Succubus Wing University members.",
+    "text": "When two or more deities combine their influences to support Succubus Wing University members in combat, they enter a Heavenly Balance. This specific term is communicated with those involved as a notice to prepare for a sudden and dramatic cycle of energy happening to or around them. Members can then prepare their bodies and minds for the potential impact of any combination of divine blessing coming their way."
+  },
+  {
+    "id": "3",
+    "concept": "DMN Escalation",
+    "tooltip": "A strategy to overwhelm an enemy before they can react and adapt.",
+    "text": "Typically, Succubus Wing University engagement policy causes the enemies of the University to escalate the DMN Level of a situation first, since the University’s priority is a resolution to conflict with as little energy expended, and therefore as little attention from authorities beyond the scope of a conflict, as possible. However, when a situation presents the opportunity for University members to escalate first, they will communicate a DMN Escalation strategy with the aim of overwhelming the enemy before they can react and adapt."
+  },
+  {
+    "id": "4",
+    "concept": "DMN Levels",
+    "tooltip": "A series of levels defining the scale of combat in a situation.",
+    "text": "DMN1 - Independent influence on oneself, and one’s immediate geographic environment within non-energy-related capabilities. \nEx: Hand-to-hand combat, firearms, intercontinental ballistic arms, planet-breaking arms DMN2 - Independent influence on oneself, and one’s immediate geographic environment with energy-related capabilities. \nEx: Enchanting 9mm ammunition with fire, teleportation from one room in a small apartment to another \nDMN3 - Independent influence on one’s immediate geographic environments, and neighboring geographic areas with a high risk of swiftly influencing one’s own community and adjacent communities. \nEx: Maintaining an enchantment on a bomb to expand its radius from a city block to an entire city, teleportation from one city to another \nDMN4 - Swift, independent influence of multiple geographic areas and communities with personal and immediate influences becoming trivial considerations. \nEx: Maintaining the duplication of a bomb to several bombs to level several states, teleportation across continents. \nDMN5 - Swift, independent influence of geographic areas and communities with personal, immediate influences on the scale of planets becoming trivial. \nEx: Detonating a fire enchantment in space between two planets and causing harm to life on both, teleportation across a solar system \nDMN6 - Swift, independent influence of zones of existence, influence on the scale of galaxies become trivial. \nEx: The usual output of influence expected of gods \nDMN6-E - Immediate threat to the integrity of existence. \nEx: Artemis’ Final Hunt Weapon Set, Artemis’ output of influence during her \"sabbatical\""
+  }
+]
